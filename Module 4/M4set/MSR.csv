@@ -1,0 +1,10 @@
+name,school_rating,size,reduced_lunch,state_percentile_16,state_percentile_15,stu_teach_ratio,school_type,avg_score_15,avg_score_16,full_time_teachers,percent_black,percent_white,percent_asian,percent_hispanic
+Allendale Elementary School,5.0,851.0,10.0,90.2,95.8,15.7,Public,89.4,85.2,54.0,2.9,85.5,1.6,5.6
+Anderson Elementary,2.0,412.0,71.0,32.8,37.3,12.8,Public,43.0,38.3,32.0,3.9,86.7,1.0,4.9
+Avoca Elementary,4.0,482.0,43.0,78.4,83.6,16.6,Public,75.7,73.0,29.0,1.0,91.5,1.2,4.4
+Bailey Middle,0.0,394.0,91.0,1.6,1.0,13.1,Public Magnet,2.1,4.4,30.0,80.7,11.7,2.3,4.3
+Barfield Elementary,4.0,948.0,26.0,85.3,89.2,14.8,Public,81.3,79.6,64.0,11.8,71.2,7.1,6.0
+Barkers Mill Elementary School,4.0,893.0,48.0,78.1,76.4,13.9,Public,69.4,72.3,64.0,28.6,39.9,2.2,17.8
+Barksdale Elementary,4.0,580.0,58.0,83.2,74.6,13.8,Public,68.0,76.1,42.0,27.4,59.5,0.5,6.6
+Beech Elementary,5.0,612.0,16.0,95.2,93.4,15.6,Public,85.9,90.3,39.0,4.2,90.5,0.3,3.1
+Beech Senior High School,4.0,1274.0,21.0,82.5,77.9,14.9,Public,67.2,69.3,85.0,13.8,79.7,1.4,3.7
